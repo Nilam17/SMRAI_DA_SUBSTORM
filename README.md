@@ -1,6 +1,13 @@
 # SMRAI_DA_SUBSTORM
  SMRAI with SuperDARAN Data Assimilation for Substorm Analysis
 
+## Data / large files (SMRAI2 and SMRAI2.1 folder)
+The large dataset (~103 MB) is hosted on Zenodo (GitHub has file-size limits).
+
+- Zenodo record (DOI): https://doi.org/10.5281/zenodo.18193241
+- Direct download: https://zenodo.org/records/18193241
+
+  
 ## predict_al_au_figure2.ipynb
 
 * Downloads OMNI solar wind data for specified time ranges (You can select date 20231030 or 20231031)
