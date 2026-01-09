@@ -3,7 +3,7 @@
 
 ## predict_al_au_figure2.ipynb
 
-* Downloads OMNI solar wind data (BY_GSM, BZ_GSM, flow speed, and proton density) for specified time ranges (You can select date 20231030 or 20231031)
+* Downloads OMNI solar wind data for specified time ranges (You can select date 20231030 or 20231031)
 * Employs SMRAI2 models (modelp099_250.sav and modelw099_300.sav) to predict electric potential and Hall conductivity
 * Uploads the eletric field files for the SMRAI2.1 w/ and w/o DA methods
 * Interpolates conductivity fields from SMRAI2 grid onto the SMRAI2.1 spatial grid for comparison
